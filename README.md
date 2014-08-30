@@ -2,7 +2,7 @@
 ----------
 
 ```bash
-$ ./script/parse_verdict.py [VERDICT_FILENAME]*
+$ ./script/parse_verdict.py sample_input/*
 ```
 
 輸出格式：
@@ -11,6 +11,7 @@ $ ./script/parse_verdict.py [VERDICT_FILENAME]*
 ```
 
 目前處理欄位：
-  * 判決字號
-  * 判決日期
+  * 裁判字號
+  * 裁判日期
   * 裁判案由
+  * 被告

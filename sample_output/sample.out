@@ -1,0 +1,16 @@
+sample_input/TaipeiLo_20140816_144520.csv	被告	["蘇維成", "陳官保", "莊翠雲", "林正榕", "連尤菁", "陳秀琴", "黃惠莉", "陳智華", "劉山煦", "林虹君", "沈嫚嫻", "曾琡芬", "張智傑", "許慈美", "蔡銘俊", "簡性琦", "王明道", "詹德育", "林瑞堂", "許世雄", "周正雄", "莊淑卿", "江威慶"]
+sample_input/TaipeiLo_20140816_144520.csv	裁判字號	"97,重訴,9"
+sample_input/TaipeiLo_20140816_144520.csv	裁判日期	"991231"
+sample_input/TaipeiLo_20140816_144520.csv	裁判案由	"貪污等"
+sample_input/TaipeiLo_20140816_144523.csv	被告	["盧素珍"]
+sample_input/TaipeiLo_20140816_144523.csv	裁判字號	"97,重訴,9"
+sample_input/TaipeiLo_20140816_144523.csv	裁判日期	"991231"
+sample_input/TaipeiLo_20140816_144523.csv	裁判案由	"貪污等"
+sample_input/TaipeiLo_20140816_144526.csv	被告	["劉鴻寬"]
+sample_input/TaipeiLo_20140816_144526.csv	裁判字號	"95,重訴,48"
+sample_input/TaipeiLo_20140816_144526.csv	裁判日期	"991224"
+sample_input/TaipeiLo_20140816_144526.csv	裁判案由	"貪污等"
+sample_input/TaipeiLo_20140816_144528.csv	被告	["陳仁智"]
+sample_input/TaipeiLo_20140816_144528.csv	裁判字號	"99,訴,932"
+sample_input/TaipeiLo_20140816_144528.csv	裁判日期	"991217"
+sample_input/TaipeiLo_20140816_144528.csv	裁判案由	"貪污等"
